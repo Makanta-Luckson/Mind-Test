@@ -11,4 +11,12 @@ The file named Primes, contains codes that will first generate random numbers be
 
 ___
 
+
+**Selector.java**
+
+The Selector.java file contains lines of codes that shows how the sorting integer numbers in an array can be done and get the second largest number in the array, it is also important to understand that this will not work with out the import statement being used.
+
+___
+
+
 # Have fun and Happy coding
